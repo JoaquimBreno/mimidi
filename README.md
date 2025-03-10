@@ -1,4 +1,4 @@
-# MIDI Seq2Seq Model
+# MIMIDI Seq2Seq Model
 
 This project implements a simplified Seq2Seq model designed for processing MIDI data. The model utilizes MIDI token embeddings and input tokens, providing a streamlined architecture while maintaining essential functionality for encoding and decoding sequences.
 
