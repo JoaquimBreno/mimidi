@@ -1,0 +1,8 @@
+torch
+torchvision
+pytorch-lightning
+transformers
+datasets
+numpy
+pretty_midi
+pandas
